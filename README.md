@@ -8,6 +8,7 @@ APARTIR DE JUNHO DE 2023.
 <!-- Adicione uma breve descrição ou informações adicionais -->
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Crislaine-Doria&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
+    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,mysql,dart,flutter" />
   </a>
