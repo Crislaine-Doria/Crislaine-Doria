@@ -12,3 +12,4 @@ APARTIR DE JUNHO DE 2023.
     <img src="https://skillicons.dev/icons?i=git,mysql,dart,flutter" />
   </a>
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
