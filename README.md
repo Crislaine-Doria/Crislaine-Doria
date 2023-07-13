@@ -6,10 +6,13 @@
 Aqui estão algumas estatísticas do meu perfil do GitHub. Essas estatísticas incluem o número de repositórios, contribuições, seguidores,etc.
 APARTIR DE JUNHO DE 2023.
 <!-- Adicione uma breve descrição ou informações adicionais -->
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Crislaine-Doria)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Adicione uma breve descrição ou informações adicionais -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crislaine-Doria&hide_progress=true)
+<!-- Adicione uma breve descrição ou informações adicionais -->
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Crislaine-Doria&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,mysql,dart,flutter" />
   </a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crislaine-Doria&hide_progress=true)
