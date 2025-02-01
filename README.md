@@ -24,7 +24,7 @@ Bem-vindo ao meu GitHub! Sou uma desenvolvedora especializada em **Flutter**, ap
 
 ## 📬 Vamos Conectar?
 - 💼 [LinkedIn](https://www.linkedin.com/in/crislaine-doria)
-- 🌍 [Portfólio](#) *(Adicione o link do seu site caso tenha!)*
+- 🌍 [Portfólio](https://crislainedoriasolucoessoftware-6eb37.web.app/)
 - 📩 **E-mail:** *crislainedoriass@gmail.com* 
 
 🚀 Sempre aberta para novas oportunidades e colaborações! Vamos construir algo incrível juntos! 💡
