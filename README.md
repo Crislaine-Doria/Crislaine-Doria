@@ -8,6 +8,14 @@
 - Focused on **Clean Code, TDD, and robust architecture**.
 - 💻 Web & Android Developer with a passion for crafting elegant solutions.
 
+🔧  **Skill:**
+Programming: Flutter
+Databases: MYSQL, PostgreSQL, Cloud Firestore, RealTime Database
+Frameworks/Patterns: Bloc, MVC, MVP, GetX
+DevOps: AWS, CI/CD, Git Flow, Microsoft Azure, GCP
+Testing: BDD, TDD, Unit, Integration, Widget Tests
+Other Tools: Node, Figma, Windows, GIT
+
 👩‍💻 **Professional Interests:**
 - Deeply fascinated by all aspects of computer science, with a focus on advanced software engineering practices.
 - Crafting high-quality, intuitive applications that bridge the gap between design and functionality.
@@ -27,4 +35,4 @@
 - Feel free to reach out for collaborations, project inquiries, or even a tech chat!
 - **Email:** [crislainedoriass@gmail.com](mailto:crislainedoriass@gmail.com)
 - **LinkedIn:** [Crislaine Doria](https://www.linkedin.com/in/crislaine-doria-7b739433b/)
-- **Portfolio:** [crislainedoriasolucoessoftware-6eb37.web.app](https://crislainedoriasolucoessoftware-6eb37.web.app/)
+- **Portfolio:** [crislainedoriasolucoessoftware-6eb37.web.app](https://crislainedoriasolucoesemsoftware.com)
