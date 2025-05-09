@@ -9,12 +9,12 @@
 - 💻 Web & Android Developer with a passion for crafting elegant solutions.
 
 🔧  **Skill:**
-Programming: Flutter
-Databases: MYSQL, PostgreSQL, Cloud Firestore, RealTime Database
-Frameworks/Patterns: Bloc, MVC, MVP, GetX
-DevOps: AWS, CI/CD, Git Flow, Microsoft Azure, GCP
-Testing: BDD, TDD, Unit, Integration, Widget Tests
-Other Tools: Node, Figma, Windows, GIT
+- Programming: Flutter
+- Databases: MYSQL, PostgreSQL, Cloud Firestore, RealTime Database
+- Frameworks/Patterns: Bloc, MVC, MVP, GetX
+- DevOps: AWS, CI/CD, Git Flow, Microsoft Azure, GCP
+- Testing: BDD, TDD, Unit, Integration, Widget Tests
+- Other Tools: Node, Figma, Windows, GIT
 
 👩‍💻 **Professional Interests:**
 - Deeply fascinated by all aspects of computer science, with a focus on advanced software engineering practices.
